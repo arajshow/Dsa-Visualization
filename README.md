@@ -3,6 +3,7 @@
 - Bubble Sort 
 - Selection Sort
 - Insertion Sort
+- merge sort
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
