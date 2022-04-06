@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 10px 20px 30px 0;
+    line-height: 1.4;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.flex-container{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+    transition: 1s all ease;
+}
+
+.flex-item{
+    background: rgb(30, 214, 255);
+    border: 2pt solid black;
+    width: 15px;
+    transition: 0.3s all ease;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+}
+
+#input{
+    display: inline-flex;
+    padding: 10px;
+    justify-content: space-around;
+}
