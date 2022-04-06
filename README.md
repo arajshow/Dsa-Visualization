@@ -4,6 +4,7 @@
 - Selection Sort
 - Insertion Sort
 - merge sort
+- quick sort
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
